@@ -1,6 +1,8 @@
 Hola, esta es la primara linea que pongo.
 Luego pondremos más para ver que podemos hacer.
 
+Aqui pongo unas cosas más, a ver que tal. yo contionuo ahora aqui y además añado el fichero02.txt
+
 También pongo aqui otras cosas, pero espera, es mucho lo que tengo...
 ... entonces, quiero solo esto último, no lo otro.
 
