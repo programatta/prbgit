@@ -1,1 +1,6 @@
 Pues este es el fichero2, y tiene contenido relacionado con el parrafo 2
+
+Pues aqui también van cambios gordos,
+muy muy gordos!
+-----------------------------------------
+
