@@ -3,7 +3,8 @@ Luego pondremos más para ver que podemos hacer.
 
 Aqui pongo unas cosas más, a ver que tal. yo contionuo ahora aqui y además añado el fichero02.txt
 
-También pongo aqui otras cosas, pero espera, es mucho lo que tengo...
+Pues voy a modificar esto por aquí
+
 También pongo aqui otras cosas,jojo, espera, espera qeu añado cosas, pero espera, es mucho lo que tengo...
 ... entonces, quiero solo esto último, no lo otro.
 
@@ -12,4 +13,6 @@ También pongo aqui otras cosas,jojo, espera, espera qeu añado cosas, pero espe
 aqui van cosas que se tienen que aplicar.
 pero muchas cositas
 ---------------------------------
+
+y por aqui pongo cosas, muchas cosas... siempre son cosas.
 
