@@ -8,6 +8,8 @@ Pues voy a modificar esto por aquí
 También pongo aqui otras cosas,jojo, espera, espera qeu añado cosas, pero espera, es mucho lo que tengo...
 ... entonces, quiero solo esto último, no lo otro.
 
+cambiamos aqui 1
+cambiamos aqui 2
 
 ------- CAMBIOS INTERESANTES ----
 aqui van cosas que se tienen que aplicar.
@@ -15,4 +17,6 @@ pero muchas cositas
 ---------------------------------
 
 y por aqui pongo cosas, muchas cosas... siempre son cosas.
+
+tambien cambiamos por aqui 3
 

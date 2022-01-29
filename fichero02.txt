@@ -13,3 +13,5 @@ Espera, me dicen que esto no tiene que ir de momento... voy a hacer un stash
 
 UUUUU voy a añadir estas lineas....
 pero vamos, que parece que va bien.
+
+Cambioamos por aqui segun los cambios de fichero1
