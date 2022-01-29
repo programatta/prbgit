@@ -3,4 +3,8 @@ Pues este es el fichero2, y tiene contenido relacionado con el parrafo 2
 Pues aqui también van cambios gordos,
 muy muy gordos!
 -----------------------------------------
+Hago cambios,
+muchos cambios,
+y además tengo funcionalidad nueva.... que bueno.
+Espera, me dicen que esto no tiene que ir de momento... voy a hacer un stash
 
