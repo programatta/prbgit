@@ -1,0 +1,21 @@
+Pues este es el fichero2, y tiene contenido relacionado con el parrafo 2
+
+Pues aqui también van cambios gordos,
+muy muy gordos!
+Pues pongo aqui algo que tiene que ir antes de lo de UUUUU
+por eso intenton ver si puedo hacer lo mimso que en GitKraken.
+
+-----------------------------------------
+Hago cambios,
+muchos cambios,
+y además tengo funcionalidad nueva.... que bueno.
+Espera, me dicen que esto no tiene que ir de momento... voy a hacer un stash
+
+UUUUU voy a añadir estas lineas....
+pero vamos, que parece que va bien.
+
+Cambioamos por aqui segun los cambios de fichero1
+
+
+OTRAS COSAS PARA UNA VERSION
+
