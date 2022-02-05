@@ -12,6 +12,9 @@ cambiamos aqui 1
 VOY A HACER UN STAGE porque tengo que cambiar otras cosas...
 cambiamos aqui 2
 
+**** AÑADO ESTO -> va con lo del fichero 02 *****
+
+
 ------- CAMBIOS INTERESANTES ----
 aqui van cosas que se tienen que aplicar.
 pero muchas cositas

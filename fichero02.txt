@@ -19,3 +19,6 @@ Cambioamos por aqui segun los cambios de fichero1
 
 OTRAS COSAS PARA UNA VERSION
 
+*****
+PONGO COSAS ASI
+*****
